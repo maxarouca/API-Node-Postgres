@@ -1,8 +1,4 @@
-# BACKEND GO BARBER
-
-## DESCRIÇÃO
-
-Backend da aplicação Go Barber a ser desenvolvida no curso GO STACK da Rocketseat.
+# API REST NODE POSTGRESS
 
 ## TECNOLOGIAS
 
